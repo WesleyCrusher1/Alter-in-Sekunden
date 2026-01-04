@@ -16,3 +16,10 @@ print("Minuten:", alter * 365 * 24 * 60 )
 #Alter in Minuten
 print("Sekunden:", alter * 365 * 24 * 60 * 60)
 #Alter in Sekunden
+
+
+
+#alter_rechner
+
+print("Wie alt bist du in Jahren?")
+
