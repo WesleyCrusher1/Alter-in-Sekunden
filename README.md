@@ -23,3 +23,7 @@ print("Sekunden:", alter * 365 * 24 * 60 * 60)
 
 print("Wie alt bist du in Jahren?")
 
+alter = int(input("Eingabe: "))
+
+
+
