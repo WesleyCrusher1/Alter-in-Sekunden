@@ -8,11 +8,11 @@ print("Jahre:", alter * 1)
 #Alter in Jahren
 print("Monate:", alter * 12)
 #Alter in Monaten
-print("Tage:", alter * 12 * 365)
+print("Tage:", alter * 365)
 #Alter in Tagen
-print("Stunden:", alter * 12 * 365 * 24)
+print("Stunden:", alter * 365 * 24)
 #Alter in Stunden
-print("Minuten:", alter * 12 * 365 * 24 * 60 )
+print("Minuten:", alter * 365 * 24 * 60 )
 #Alter in Minuten
-print("Sekunden:", alter * 12 * 365 * 24 * 60 * 60)
+print("Sekunden:", alter * 365 * 24 * 60 * 60)
 #Alter in Sekunden
